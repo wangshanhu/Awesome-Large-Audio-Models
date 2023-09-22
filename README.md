@@ -1,1 +1,1 @@
-# <center> 'Awesome-Large-Audio-Models'
+# <center> `Awesome-Large-Audio-Models`
