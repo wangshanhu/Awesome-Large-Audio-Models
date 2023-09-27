@@ -11,7 +11,7 @@ Stay at the forefront of audio model research with these recent papers:
     - *Authors*: *Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen, Dalia El Badawy, Wei Han, Eugene Kharitonov, Hannah Muckenhirn, Dirk Padfield, James Qin, Danny Rozenberg, Tara Sainath, Johan Schalkwyk, Matt Sharifi, Michelle Tadmor Ramanovich, Marco Tagliasacchi, Alexandru Tudor, Mihajlo Velimirović, Damien Vincent, Jiahui Yu, Yongqiang Wang, Vicky Zayats, Neil Zeghidour, Yu Zhang, Zhishuai Zhang, Lukas Zilka, Christian Frank*
     - *[PDF](https://arxiv.org/abs/2306.12925)*
 2. **"Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities"**
-    - *Authors*: *Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou,Xipeng Qiu
+    - *Authors*: *Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, Xipeng Qiu
     - *[PDF](https://arxiv.org/abs/2305.11000)  [Code](https://github.com/0nutation/SpeechGPT)*
 3. **"SeamlessM4T—Massively Multilingual & Multimodal Machine Translation"**
     - *Authors*: *Seamless Communication, Loïc Barrault, Yu-An Chung, Mariano Cora Meglioli, David Dale, Ning Dong, Paul-Ambroise Duquenne, Hady Elsahar, Hongyu Gong, Kevin Heffernan, John Hoffman, Christopher Klaiber, Pengwei Li, Daniel Licht, Jean Maillard, Alice Rakotoarison, Kaushik Ram Sadagopan, Guillaume Wenzek, Ethan Ye, Bapi Akula, Peng-Jen Chen, Naji El Hachem, Brian Ellis, Gabriel Mejia Gonzalez, Justin Haaheim, Prangthip Hansanti, Russ Howes, Bernie Huang, Min-Jae Hwang, Hirofumi Inaguma, Somya Jain, Elahe Kalbassi, Amanda Kallet, Ilia Kulikov, Janice Lam, Daniel Li, Xutai Ma, Ruslan Mavlyutov, Benjamin Peloquin, Mohamed Ramadan, Abinesh Ramakrishnan, Anna Sun, Kevin Tran, Tuan Tran, Igor Tufanov, Vish Vogeti, Carleigh Wood, Yilin Yang, Bokai Yu, Pierre Andrews, Can Balioglu, Marta R. Costa-jussà, Onur Celebi, Maha Elbayad, Cynthia Gao, Francisco Guzmán, Justine Kao, Ann Lee, Alexandre Mourachko, Juan Pino, Sravya Popuri, Christophe Ropers, Safiyyah Saleem, Holger Schwenk, Paden Tomasello, Changhan Wang, Jeff Wang, Skyler Wang*
@@ -35,25 +35,25 @@ Stay up-to-date with the latest advancements in speech-to-text models:
     - *Authors*: *Yu Zhang, Wei Han, James Qin, Yongqiang Wang, Ankur Bapna, Zhehuai Chen, Nanxin Chen, Bo Li, Vera Axelrod, Gary Wang, Zhong Meng, Ke Hu, Andrew Rosenberg, Rohit Prabhavalkar, Daniel S. Park, Parisa Haghani, Jason Riesa, Ginger Perng, Hagen Soltau, Trevor Strohman, Bhuvana Ramabhadran, Tara Sainath, Pedro Moreno, Chung-Cheng Chiu, Johan Schalkwyk, Françoise Beaufays, Yonghui Wu*
     - *[PDF](https://arxiv.org/abs/2303.01037)*
 3.   **“Prompting Large Language Models for Zero-Shot Domain Adaptation in Speech Recognition”**
-    - *Authors*: *Yuang Li, Yu Wu, Jinyu Li, Shujie Liu*
-    - *[PDF](https://arxiv.org/abs/2306.16007)*
-4. **“Exploring the Integration of Large Language Models into Automatic Speech Recognition Systems: An Empirical Study”**
+       - *Authors*: *Yuang Li, Yu Wu, Jinyu Li, Shujie Liu*
+       - *[PDF](https://arxiv.org/abs/2306.16007)*
+5. **“Exploring the Integration of Large Language Models into Automatic Speech Recognition Systems: An Empirical Study”**
     - *Authors*: *Zeping Min, Jinbo Wang*
     - *[PDF](https://arxiv.org/abs/2307.06530)*
-5. **“On decoder-only architecture for speech-to-text and large language model integration”**
+6. **“On decoder-only architecture for speech-to-text and large language model integration”**
     - *Authors*: *Jian Wu, Yashesh Gaur, Zhuo Chen, Long Zhou, Yimeng Zhu, Tianrui Wang, Jinyu Li, Shujie Liu, Bo Ren, Linquan Liu, Yu Wu*
     - *[PDF](https://arxiv.org/abs/2307.03917)*
-6. **“Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition”**
+7. **“Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition”**
     - *Authors*: *Shaoshi Ling, Yuxuan Hu, Shuangbei Qian, Guoli Ye, Yao Qian, Yifan Gong, Ed Lin, Michael Zeng*
     - *[PDF](https://arxiv.org/abs/2307.08234)*
-7. “**Prompting Large Language Models with Speech Recognition Abilities**”
+8. “**Prompting Large Language Models with Speech Recognition Abilities**”
     - *Authors*: *Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer*
     - *[PDF](https://arxiv.org/abs/2307.11795)*
-8. **“Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR”**
+9. **“Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR”**
     - *Authors*: *W. Ronny Huang, Hao Zhang, Shankar Kumar, Shuo-yiin Chang, Tara N. Sainath*
     - *[PDF](https://arxiv.org/abs/2305.18419)*
 
-### 🪗 Audio Generation
+### 🎧 Audio Generation
 
 1. **“AudioLM: A Language Modeling Approach to Audio Generation”**
     - *Authors: Zalán Borsos, Raphaël Marinier, Damien Vincent, Eugene Kharitonov, Olivier Pietquin, Matt Sharifi,Dominik Roblek, Olivier Teboul, David Grangier, Marco Tagliasacchi, and Neil Zeghidour*
