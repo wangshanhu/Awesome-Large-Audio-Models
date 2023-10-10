@@ -51,7 +51,7 @@ Stay up-to-date with the latest advancements in speech-to-text models:
 - **"Robust Speech Recognition via Large-Scale Weak Supervision"**
     - *Authors*: *Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever*
     - *[PDF](https://arxiv.org/abs/2212.04356) [Code](https://github.com/openai/whisper)*
-- **“WhisperX: Time-Accurate Speech Transcriptionof Long-Form Audio”**
+- **“WhisperX: Time-Accurate Speech Transcription of Long-Form Audio”**
     - *Authors: Max Bain, Jaesung Huh, Tengda Han, Andrew Zisserman*
     - *[PDF](https://arxiv.org/abs/2303.00747) [Code](https://github.com/m-bain/whisperX)*
 - **"Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages"**
