@@ -176,7 +176,7 @@ for Vision, Speech and Language”**
     - *[PDF](https://arxiv.org/abs/2305.18500)  [Code](https://github.com/TXH-mercury/VAST)*
 - **“X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages”**
     - *Authors: Yuchen Han, Chen Xu, Tong Xiao, Jingbo Zhu*
-    - *[PDF](https://arxiv.org/abs/2306.07650)  [Code](https://x-llm.github.io/)*
+    - *[PDF](https://arxiv.org/abs/2305.04160)  [Code](https://x-llm.github.io/)*
 - **“ALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset”**
     - *Authors:* Sihan Chen, Xingjian He, Longteng Guo, Xinxin Zhu, Weining Wang, Jinhui Tang, *Jing Liu*
     - *[PDF](https://arxiv.org/abs/2304.08345)  [Code](https://casia-iva-group.github.io/projects/VALOR)*
