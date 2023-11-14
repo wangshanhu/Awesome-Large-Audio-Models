@@ -151,7 +151,7 @@ Stay up to date on the latest advances in cross-modal representation learning:
     - *[PDF](https://ieeexplore.ieee.org/abstract/document/10022954)*
 - “**BLSP: Bootstrapping Language-Speech Pre-training via Behavior Alignment of Continuation Writing**”
     - *Authors: Chen Wang, Minpeng Liao, Zhongqiang Huang, Jinliang Lu, Junhong Wu, Yuchen Liu, Chengqing Zong, Jiajun Zhang*
-    - *[PDF](https://arxiv.org/abs/2309.00916)*
+    - *[PDF](https://arxiv.org/abs/2309.00916)* [Code](https://github.com/cwang621/blsp/)*
 - “**TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles”**
     - *Authors:* Yifeng Ma, Suzhen Wang, Yu Ding, Bowen Ma, Tangjie Lv, Changjie Fan, Zhipeng Hu, Zhidong Deng, Xin Yu
     - *[PDF](https://arxiv.org/abs/2304.00334)*
